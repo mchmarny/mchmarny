@@ -1,6 +1,6 @@
-<img src="images/mchmarny.png" style="float: left;" />
+<img src="images/mchmarny.png" style="float: left; margin: 0 10px; 10px; 0;" />
 
-My name is Mark Chmarny and this is my personal development space. I usually share my longer thoughts at https://m.chmarny.com and the shorter ones on https://twitter.com/mchmarny. Hope to see you there.
+<p style="font-size: 2em;">My name is Mark Chmarny and this is my personal development space. I usually share my longer thoughts at https://m.chmarny.com and the shorter ones on https://twitter.com/mchmarny. Hope to see you there.</p>
 
 Here are few of my recent projects:
 
