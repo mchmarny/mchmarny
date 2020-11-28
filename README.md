@@ -1,5 +1,4 @@
-<img src="images/mchmarny.png" style="float: left; margin: 0 10px; 10px; 0; border: 1px solid #666;" />
-<p style="font-size: 1.20em; line-height: 150%;">My name is Mark Chmarny and this is my personal development space. I usually share my longer thoughts on my <a href="https://m.chmarny.com">m.chmarny.com blog</a>, and the shorter ones on <a href="https://twitter.com/mchmarny">@mchmarny on Twitter</a>. Hope to see you there.</p>
+<p style="font-size: 1.30em; line-height: 150%;">My name is Mark Chmarny and this is my personal development space. I usually share my longer thoughts on my <a href="https://m.chmarny.com">m.chmarny.com blog</a>, and the shorter ones on <a href="https://twitter.com/mchmarny">@mchmarny on Twitter</a>. Hope to see you there.</p>
 
 Here are few of my recent projects:
 
