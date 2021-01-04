@@ -3,6 +3,7 @@
 Here are few of my recent projects:
 
 * [Kubernetes namespace operator](https://github.com/mchmarny/ns-label-operator/tree/main/chart) applies custom deployments when any namespace in your cluster is labeled with a specific keyword
+* [Followme](https://github.com/mchmarny/followme) charts and monitors your daily Twitter followers/unfollowers across multiple accounts without handing over your account to an on-line service
 * [Hardening Dapr apps](https://github.com/mchmarny/dapr-demos/tree/master/hardened) example of multi-microservice app with tightly controlled access to secrets, components, and service invocation identity validation
 * [Scaling Kubernetes deployment](https://github.com/mchmarny/dapr-demos/tree/master/autoscaling-on-queue#autoscaling-dapr-service-based-on-queue-depth) based on the depth of a message queue to relief back-pressure
 * [Processing pipeline](https://github.com/mchmarny/dapr-demos/tree/fanout-eventhubs/pipeline) combining Twitter and cognitive APIs with pub/subs and WebSocket app to monitor topic sentiment
