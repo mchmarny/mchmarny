@@ -2,6 +2,7 @@
 
 Here are few of my recent projects:
 
+* [Terraform template](https://github.com/mchmarny/restme) to bootstrap a fully functional, multi-region, REST service on GCP with a developer release pipeline
 * [Kubernetes namespace operator](https://github.com/mchmarny/ns-label-operator/tree/main/chart) applies custom deployments when any namespace in your cluster is labeled with a specific keyword
 * [Followme](https://github.com/mchmarny/followme) charts and monitors your daily Twitter followers/unfollowers across multiple accounts without handing over your account to an on-line service
 * [Hardening Dapr apps](https://github.com/mchmarny/dapr-demos/tree/master/hardened) example of multi-microservice app with tightly controlled access to secrets, components, and service invocation identity validation
