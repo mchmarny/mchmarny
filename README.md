@@ -11,4 +11,4 @@ Here are few of my recent projects:
 * [Multi-region REST service](https://github.com/mchmarny/restme) to bootstrap a fully functional service on GCP using Terraform with a developer release pipeline
 * [Kubernetes namespace operator](https://github.com/mchmarny/ns-label-operator/tree/main/chart) applies custom deployments when any namespace in your cluster is labeled with a specific keyword
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mchmarny&show_icons=true&theme=radical&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=mchmarny&show_icons=true&theme=dark&count_private=true)
