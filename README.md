@@ -2,6 +2,7 @@
 
 Here are few of my recent projects:
 
+* [vimp](https://github.com/mchmarny/vimp) compare data from multiple vulnerability scanners
 * [s3cme](https://github.com/mchmarny/s3cme) go app template repo with image build/publish pipelines, SBOM, SLSA provenance, OIDC, KMS and Registry
 * [disco](https://github.com/mchmarny/disco) utility for bulk image, license, package, and vulnerability discovery in containerize workloads on GCP
 * [cloudbuild demo](https://github.com/mchmarny/cloudbuild-demo) bootstraps CI/CD pipeline on GCP with image provenance, GKE attestation checks
