@@ -5,7 +5,7 @@ Here are few of my recent projects:
 * [vimp](https://github.com/mchmarny/vimp) compare data from multiple vulnerability scanners
 * [s3cme](https://github.com/mchmarny/s3cme) go app template repo with image build/publish pipelines, SBOM, SLSA provenance, OIDC, KMS and Registry
 * [disco](https://github.com/mchmarny/disco) utility for bulk image, license, package, and vulnerability discovery in containerize workloads on GCP
-* [cloudbuild demo](https://github.com/mchmarny/cloudbuild-demo) bootstraps CI/CD pipeline on GCP with image provenance, GKE attestation checks
+* [sds demo](https://github.com/mchmarny/sds-demo) bootstraps CI/CD pipeline on GCP with image provenance, BinAuthZ policies, GKE attestation checks
 * [artomator](https://github.com/mchmarny/artomator) automates Software Bill of Materials (SBOM) creation with Binary Authorization attestation
 * [Repo activity monitoring CLI](https://github.com/mchmarny/dctl) to get aggregated view into PR, issue, and comment events with author's company affiliation
 * [Reproducible OpenID Connect for GCP](https://github.com/mchmarny/oidc-for-gcp-using-terraform) to configure Github Workflow using Terraform to push images to GCR
