@@ -2,6 +2,7 @@
 
 Here are few of my recent projects:
 
+* [gpuid](https://github.com/mchmarny/gpuid) - Tracks/export GPU serial numbers as structured data into configurable backends
 * [rolesetter](https://github.com/mchmarny/rolesetter) - k8s controller assigns node role based on a value of specific node label
 * [kusage](https://github.com/mchmarny/kusage) rank Kubernetes pods/containers by CPU/memory usage (usage ÷ limit)
 * [grunner](https://github.com/mchmarny/grunner) self-hosted GitHub Actions runner on GCP using GCE (MIGs) with custom image and configurable VM lifesycle
