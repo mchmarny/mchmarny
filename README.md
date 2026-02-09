@@ -15,4 +15,4 @@ Here are few of my recent projects:
 * [reproducible OpenID Connect for GCP](https://github.com/mchmarny/oidc-for-gcp-using-terraform) to configure Github Workflow using Terraform to push images to GCR
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mchmarny&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchmarny&show_icons=true&theme=dark&count_private=true)
