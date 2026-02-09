@@ -4,9 +4,9 @@ Here are few of my recent projects:
 
 * [gpuid](https://github.com/mchmarny/gpuid) - Tracks/export GPU serial numbers as structured data into configurable backends
 * [rolesetter](https://github.com/mchmarny/rolesetter) - k8s controller assigns node role based on a value of specific node label
+* [vimp](https://github.com/mchmarny/vimp) aggregate vulnerability scans from multiple container image scanners for comprehensive exposure analysis
 * [kusage](https://github.com/mchmarny/kusage) rank Kubernetes pods/containers by CPU/memory usage (usage ÷ limit)
 * [grunner](https://github.com/mchmarny/grunner) self-hosted GitHub Actions runner on GCP using GCE (MIGs) with custom image and configurable VM lifesycle
-* [vimp](https://github.com/mchmarny/vimp) compare data from multiple vulnerability scanners
 * [s3cme](https://github.com/mchmarny/s3cme) go app template repo with image build/publish pipelines, SBOM, SLSA provenance, OIDC, KMS and Registry
 * [disco](https://github.com/mchmarny/disco) utility for bulk image, license, package, and vulnerability discovery in containerize workloads on GCP
 * [sds demo](https://github.com/mchmarny/sds-demo) bootstraps CI/CD pipeline on GCP with image provenance, BinAuthZ policies, GKE attestation checks
