@@ -2,6 +2,8 @@
 
 Here are few of my recent projects:
 
+* [devpulse](https://github.com/mchmarny/devpulse) community health analytics for GitHub organizations and repositories
+* [reputer](https://github.com/mchmarny/reputer) calculate contributor reputation scores from Git provider APIs
 * [gpuid](https://github.com/mchmarny/gpuid) - Tracks/export GPU serial numbers as structured data into configurable backends
 * [rolesetter](https://github.com/mchmarny/rolesetter) - k8s controller assigns node role based on a value of specific node label
 * [vimp](https://github.com/mchmarny/vimp) aggregate vulnerability scans from multiple container image scanners for comprehensive exposure analysis
@@ -11,8 +13,6 @@ Here are few of my recent projects:
 * [disco](https://github.com/mchmarny/disco) utility for bulk image, license, package, and vulnerability discovery in containerize workloads on GCP
 * [sds demo](https://github.com/mchmarny/sds-demo) bootstraps CI/CD pipeline on GCP with image provenance, BinAuthZ policies, GKE attestation checks
 * [artomator](https://github.com/mchmarny/artomator) automates Software Bill of Materials (SBOM) creation with Binary Authorization attestation
-* [repo activity monitoring CLI](https://github.com/mchmarny/dctl) to get aggregated view into PR, issue, and comment events with author's company affiliation
-* [reproducible OpenID Connect for GCP](https://github.com/mchmarny/oidc-for-gcp-using-terraform) to configure Github Workflow using Terraform to push images to GCR
 
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mchmarny&show_icons=true&theme=dark&count_private=true)
