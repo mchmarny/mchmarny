@@ -12,4 +12,4 @@ Here are few of my recent projects:
 * [sds demo](https://github.com/mchmarny/sds-demo) bootstraps CI/CD pipeline on GCP with image provenance, BinAuthZ policies, GKE attestation checks
 * [artomator](https://github.com/mchmarny/artomator) automates Software Bill of Materials (SBOM) creation with Binary Authorization attestation
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mchmarny&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchmarny&show_icons=true&theme=dark)
